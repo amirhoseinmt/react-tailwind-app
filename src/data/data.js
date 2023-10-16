@@ -4,7 +4,7 @@ export const data = [
       name: 'Double Cheeseburger',
       category: 'burger',
       image:
-        'https://images.unsplash.com/photo-1607013251379-e6eecfffe234?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YnVyZ2Vyc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1400&q=60',
+        'https://images.pexels.com/photos/2336676/pexels-photo-2336676.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       price: '$$$$',
     },
     {
@@ -12,7 +12,7 @@ export const data = [
       name: 'Bacon Cheeseburger',
       category: 'burger',
       image:
-        'https://images.unsplash.com/photo-1553979459-d2229ba7433b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGJ1cmdlcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=1400&q=60',
+        'https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg',
       price: '$',
     },
     {
@@ -28,7 +28,7 @@ export const data = [
       name: 'Loaded Burger',
       category: 'burger',
       image:
-        'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YnVyZ2Vyc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1400&q=60',
+        'https://img.freepik.com/free-photo/side-view-burger-with-beef-meat-melted-cheese-vegetables-wooden-board_140725-11864.jpg?w=740&t=st=1697481026~exp=1697481626~hmac=8c88b3390f7e05252314d28493292d6ee17e4325ce63b0fd131829028c65ff01',
       price: '$$$',
     },
     {
@@ -100,7 +100,7 @@ export const data = [
       name: 'Wings',
       category: 'chicken',
       image:
-        'https://images.unsplash.com/photo-1567620832903-9fc6debc209f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60',
+        'https://img.freepik.com/free-photo/fried-chicken-french-fries-black-cement-floor_1150-28542.jpg?w=996&t=st=1697481126~exp=1697481726~hmac=20b42d4db154c0ae326122d773b3e32612e7ba693ec154f7a039b261ce4539e6',
       price: '$$',
     },
     {
@@ -108,7 +108,7 @@ export const data = [
       name: 'Baked Chicken',
       category: 'chicken',
       image:
-        'https://images.unsplash.com/photo-1594221708779-94832f4320d1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hpY2tlbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60',
+        'https://img.freepik.com/free-photo/baked-appetizing-whole-chicken-with-oranges-cranberries-oven-form-closeup_1220-6584.jpg?w=996&t=st=1697481185~exp=1697481785~hmac=4ab1b54d988d102d5e218b337b5bd52f2345b92fc8b2bfeeaf8152b8c0f3080f',
       price: '$$$$',
     },
     {
