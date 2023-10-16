@@ -2,7 +2,8 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div className='max-w-[1640px] mx-auto p-4'>
+    <div className='max-w-[1640px] mx-auto p-4'> 
+    {/* //check width */}
         <div className='max-h-[500px] relative'>
             {/* overlay */}
             <div className='rounded-xl absolute w-full h-full text-gray-200 max-h-[500px] bg-black/40 flex flex-col justify-center'>
